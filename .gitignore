@@ -1,0 +1,17 @@
+BackEnd/bin
+BackEnd/.gradle
+BackEnd/.settings
+BackEnd/build
+.classpath
+.project
+.idea
+desktop.ini
+
+frontEnd/node_modules
+frontEnd/build
+frontEnd/debug.log
+frontEnd/report.*
+*.log
+.metadata
+.vscode
+*.bat
